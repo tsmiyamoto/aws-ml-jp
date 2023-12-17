@@ -17,7 +17,7 @@ Parameters:
   SDWebUIVersion:
     Type: String
     Description: Branch of AUTOMATIC1111/stable-diffusion-webui
-    Default: v1.3.2
+    Default: v1.7.0
 Resources:
   SecurityGroup:
     Type: AWS::EC2::SecurityGroup
